@@ -12,7 +12,6 @@ dependencies:
 - pip
 - scikit-learn
 - tensorflow
-- theano
 - keras
 - pip:
   - pydot-ng
