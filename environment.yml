@@ -9,7 +9,7 @@ dependencies:
 - pip
 - scikit-learn
 - pip:
-  - pydot-ng
   - graphviz  
   - tensorflow
   - keras
+  - pydot
