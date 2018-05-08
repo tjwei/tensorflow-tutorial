@@ -8,3 +8,12 @@
 * 如果需要更新或者網路中斷，可以 conda env update -f environment.yml
 * 最後執行 `. activate keras` (windows  `activate keras`)
 * 然後 jupyter notebook 打開 notebook
+
+## 評量標準
+* 01-Tensorflow Basics.ipynb  的 7 個 Q (25%)
+* 03-TensorBoard.ipynb 的三個 log (10%)
+* 04-tf.data  的 1 個 Q (5%)
+* HW1 (30%)
+* HW2 (30%)
+
+
