@@ -16,4 +16,5 @@
 * HW1 (30%)
 * HW2 (30%)
 
-
+Google classrom 課程代碼 a4v4vm
+請繳交程式碼或/和執行圖片
